@@ -3,8 +3,8 @@
     <string name="app_widget_name">开关</string>
     <string name="app_tile_name">HiddifyNG</string>
     <string name="app_tile_first_use">初次使用此功能请先用APP添加配置</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">打开抽屉式导航栏</string>
+    <string name="navigation_drawer_close">关闭抽屉式导航栏</string>
     <string name="migration_success">数据迁移成功!</string>
     <string name="migration_fail">数据迁移失败啦!</string>
 
@@ -255,9 +255,9 @@
     </string-array>
 
     <string-array name="routing_mode">
-        <item>Global proxy</item>
-        <item>Foreign Sites</item>
-        <item>Blocked Sites</item>
+        <item>全局代理</item>
+        <item>国外网站</item>
+        <item>封锁网站</item>
     </string-array>
 
     <string-array name="mode_entries">
@@ -266,29 +266,27 @@
     </string-array>
 
     <!-- hiddify -->
-    <string name="default_layout_description">برای استفاده از برنامه نیاز است که حتما
-یک سرور پروکسی راه اندازی کرده باشید
-و آن پروفایل را در برنامه وارد کنید.</string>
-    <string name="add_profile_description">Add New Profile</string>
-    <string name="import_from_clipboard">Import from Clipboard</string>
-    <string name="scan_qr_code">Scan QRcode</string>
-    <string name="advanced">Advanced</string>
-    <string name="tab_to_connect">Click to connect.</string>
-    <string name="connected">Connected</string>
-    <string name="connecting">Connecting...</string>
-    <string name="proxy">Proxy</string>
-    <string name="connection_mode">Connection mode</string>
-    <string name="filtered_sites">سایت‌های فیلتر</string>
-    <string name="external_sites">سایت‌های خارجی</string>
-    <string name="sites_all">همه سایت‌ها</string>
-    <string name="smart">هوشمند</string>
-    <string name="load_balance">لودبالانس</string>
-    <string name="manual">دستی</string>
-    <string name="new_profile">New Profile</string>
-    <string name="consumer_traffic">Consumer traffic</string>
-    <string name="show">Show</string>
-    <string name="profiles">Profiles</string>
-    <string name="add_profile">Add Profile</string>
-    <string name="updated_sub_time">Updated %s %s ago</string>
-    <string name="title_sub_update_list">Updating subscriptions list</string>
+    <string name="default_layout_description">要使用该应用，您需要设置代理服务器并在应用中输入配置文件。</string>
+    <string name="add_profile_description">添加新配置</string>
+    <string name="import_from_clipboard">从剪切板导入</string>
+    <string name="scan_qr_code">扫描二维码</string>
+    <string name="advanced">高级</string>
+    <string name="tab_to_connect">点击连接</string>
+    <string name="connected">已连接</string>
+    <string name="connecting">正在连接...</string>
+    <string name="proxy">代理</string>
+    <string name="connection_mode">连接模式</string>
+    <string name="filtered_sites">过滤的网站</string>
+    <string name="external_sites">直连的网站</string>
+    <string name="sites_all">全部站点</string>
+    <string name="smart">自动</string>
+    <string name="load_balance">负载均衡</string>
+    <string name="manual">手动</string>
+    <string name="new_profile">新配置文件</string>
+    <string name="consumer_traffic">流量耗费</string>
+    <string name="show">显示</string>
+    <string name="profiles">配置文件</string>
+    <string name="add_profile">添加配置</string>
+    <string name="updated_sub_time">更新于 %s %s 前</string>
+    <string name="title_sub_update_list">更新订阅列表</string>
 </resources>
